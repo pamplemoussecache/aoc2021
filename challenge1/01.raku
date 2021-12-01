@@ -27,4 +27,4 @@ while $i < @input.elems {
   $i++;
 }
 
-say "Part 2: Depth measurement increased $count times"
+say "Part 2: Depth measurement increased $count times";
